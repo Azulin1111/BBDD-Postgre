@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<rss version="2.0">
+<channel>
+  <generator>NFE/1.0</generator>
+  <title>murciaturistica.es: Estaciones-de-autobus</title>
+  <link>https://www.murciaturistica.es/es/turismo.rss_murciaturistica?tipo=estaciones-de-autobus&amp;localidad=30016</link>
+  <language>es</language>
+  <webMaster>murciaturistica@carm.es</webMaster>
+  <copyright>Copyright 2021 murciaturistica.es</copyright>
+  <pubDate>Dom, 14 Mar 2021 16:00:00 GMT+00:00</pubDate>
+  <lastBuildDate>Dom, 14 Mar 2021 14:28:04 GMT+00:00</lastBuildDate>
+  <item>
+    <codigo>1</codigo>
+    <idrecurso>1324</idrecurso>
+    <nombre>ESTACIÓN DE AUTOBUSES DE CARTAGENA</nombre>
+    <urlportal>https://www.murciaturistica.es/es/estacion_de_autobus/estacion-de-autobuses-de-cartagena-1324/</urlportal>
+    <tipo>estaciones de autobús</tipo>
+    <direccion>Avenida Trovero Marín (junto Plaza Bastarreche)</direccion>
+    <localidad>CARTAGENA</localidad>
+    <pedania>CARTAGENA</pedania>
+    <cp>30202</cp>
+    <telefono>968 505 656</telefono>
+    <fax></fax>
+    <email></email>
+    <web><![CDATA[]]></web>
+    <calidadq>0</calidadq>
+    <calidadt>0</calidadt>
+    <coordx>37.603889</coordx>
+    <coordy>-0.978197</coordy>
+    <fotos>
+      <foto>https://www.murciaturistica.es/webs/murciaturistica/estatico/img/fotohotel.jpg</foto>
+    </fotos>
+    <iconos>
+    </iconos>
+    <opiniones>
+    </opiniones>
+    <descripcion_language>es</descripcion_language>
+    <descripcion><![CDATA[]]></descripcion>
+  </item>
+<description>murciaturistica.es: Estaciones-de-autobus</description>
+</channel>
+</rss>

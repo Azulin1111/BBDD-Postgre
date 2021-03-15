@@ -1,0 +1,26 @@
+[
+	{
+		"codigo": 1,
+		"idrecurso": 1340,
+		"nombre": "CENTRO PARA LA ARTESANÍA DE CARTAGENA",
+		"urlportal": "https://www.murciaturistica.es/es/centro_de_artesania/centro-para-la-artesania-de-cartagena-1340/",
+		"tipo": "centros de artesanía",
+		"direccion": "Calle Honda 10",
+		"localidad": "CARTAGENA",
+		"pedania": "None",
+		"cp": 30201,
+		"telefono": "968 524 631",
+		"fax": "None",
+		"email": "centroartesaniacartagena@salzillosi.com / coordinadoracentrosartesania@salzillosi.com",
+		"web": "http://murciaartesana.carm.es/centro-de-artesania-de-cartagena/",
+		"calidadq": 0,
+		"calidadt": 0,
+		"coordx": 37.602038,
+		"coordy": -0.985636,
+		"fotos": "",
+		"iconos": "",
+		"opiniones": "",
+		"descripcion_language": "es",
+		"descripcion": "El Centro para la Artesanía de Cartagena está situado en la Calle Honda, junto a la conocida Plaza de los Tres Reyes, monte del Molinete y Glorieta de San Francisco. El edificio ocupa una planta baja en la que se articulan las diferentes salas donde se exhiben los productos artesanos para su venta. Al fondo cuenta con una sala de exposiciones temporales donde los artesanos pueden mostrar mensualmente sus creaciones más novedosas."
+	}
+]

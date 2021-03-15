@@ -1,0 +1,26 @@
+[
+	{
+		"codigo": 1,
+		"idrecurso": 707,
+		"nombre": "GESTIPOLIS",
+		"urlportal": "https://www.murciaturistica.es/es/organizador_de_congresos/gestipolis-707/",
+		"tipo": "organizadores profesionales de congresos",
+		"direccion": "Calle JIMÉNEZ DE LA ESPADA 47, 1º D.",
+		"localidad": "CARTAGENA",
+		"pedania": "CARTAGENA",
+		"cp": 30204,
+		"telefono": 968125104,
+		"fax": 968125134,
+		"email": "anaps@gestipolis.es",
+		"web": "None",
+		"calidadq": 0,
+		"calidadt": 0,
+		"coordx": 37.607745,
+		"coordy": -0.985524,
+		"fotos": "",
+		"iconos": "",
+		"opiniones": "",
+		"descripcion_language": "es",
+		"descripcion": "None"
+	}
+]

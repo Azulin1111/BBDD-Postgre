@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<rss version="2.0">
+<channel>
+  <generator>NFE/1.0</generator>
+  <title>murciaturistica.es: Organizadores-profesionales-de-congresos</title>
+  <link>https://www.murciaturistica.es/es/turismo.rss_murciaturistica?tipo=organizadores-profesionales-de-congresos&amp;localidad=30016</link>
+  <language>es</language>
+  <webMaster>murciaturistica@carm.es</webMaster>
+  <copyright>Copyright 2021 murciaturistica.es</copyright>
+  <pubDate>Dom, 14 Mar 2021 16:00:00 GMT+00:00</pubDate>
+  <lastBuildDate>Dom, 14 Mar 2021 14:28:23 GMT+00:00</lastBuildDate>
+  <item>
+    <codigo>1</codigo>
+    <idrecurso>707</idrecurso>
+    <nombre>GESTIPOLIS</nombre>
+    <urlportal>https://www.murciaturistica.es/es/organizador_de_congresos/gestipolis-707/</urlportal>
+    <tipo>organizadores profesionales de congresos</tipo>
+    <direccion>Calle JIMÉNEZ DE LA ESPADA 47, 1º D.</direccion>
+    <localidad>CARTAGENA</localidad>
+    <pedania>CARTAGENA</pedania>
+    <cp>30204</cp>
+    <telefono>968125104</telefono>
+    <fax>968125134</fax>
+    <email>anaps@gestipolis.es</email>
+    <web><![CDATA[]]></web>
+    <calidadq>0</calidadq>
+    <calidadt>0</calidadt>
+    <coordx>37.607745</coordx>
+    <coordy>-0.985524</coordy>
+    <fotos>
+      <foto>https://www.murciaturistica.es/webs/murciaturistica/estatico/img/fotohotel.jpg</foto>
+    </fotos>
+    <iconos>
+    </iconos>
+    <opiniones>
+    </opiniones>
+    <descripcion_language>es</descripcion_language>
+    <descripcion><![CDATA[]]></descripcion>
+  </item>
+<description>murciaturistica.es: Organizadores-profesionales-de-congresos</description>
+</channel>
+</rss>

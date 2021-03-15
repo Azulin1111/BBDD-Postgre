@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<rss version="2.0">
+<channel>
+  <generator>NFE/1.0</generator>
+  <title>murciaturistica.es: Estaciones-de-tren</title>
+  <link>https://www.murciaturistica.es/es/turismo.rss_murciaturistica?tipo=estaciones-de-tren&amp;localidad=30016</link>
+  <language>es</language>
+  <webMaster>murciaturistica@carm.es</webMaster>
+  <copyright>Copyright 2021 murciaturistica.es</copyright>
+  <pubDate>Dom, 14 Mar 2021 16:00:00 GMT+00:00</pubDate>
+  <lastBuildDate>Dom, 14 Mar 2021 14:28:05 GMT+00:00</lastBuildDate>
+  <item>
+    <codigo>1</codigo>
+    <idrecurso>1316</idrecurso>
+    <nombre>ESTACIÓN DE RENFE CARTAGENA</nombre>
+    <urlportal>https://www.murciaturistica.es/es/estacion_de_tren/estacion-de-renfe-cartagena-1316/</urlportal>
+    <tipo>estaciones de tren</tipo>
+    <direccion>Plaza de México, 2</direccion>
+    <localidad>CARTAGENA</localidad>
+    <pedania>CARTAGENA</pedania>
+    <cp>30201</cp>
+    <telefono>902 432 343 / 902 320 320</telefono>
+    <fax></fax>
+    <email></email>
+    <web><![CDATA[http://www.adif.es/es_ES/infraestructuras/estaciones/61307/informacion_000079.shtml]]></web>
+    <calidadq>0</calidadq>
+    <calidadt>0</calidadt>
+    <coordx>37.605331</coordx>
+    <coordy>-0.974992</coordy>
+    <fotos>
+      <foto>https://www.murciaturistica.es/webs/murciaturistica/estatico/img/fotohotel.jpg</foto>
+    </fotos>
+    <iconos>
+    </iconos>
+    <opiniones>
+    </opiniones>
+    <descripcion_language>es</descripcion_language>
+    <descripcion><![CDATA[]]></descripcion>
+  </item>
+  <item>
+    <codigo>2</codigo>
+    <idrecurso>1314</idrecurso>
+    <nombre>GERENCIA DE LA EXPLOTACIÓN COMERCIAL DE FEVE (FERROCARRILES DE VÍA ESTRECHA)</nombre>
+    <urlportal>https://www.murciaturistica.es/es/estacion_de_tren/gerencia-de-la-explotacion-comercial-de-feve-(ferrocarriles-de-via-estrecha)-1314/</urlportal>
+    <tipo>estaciones de tren</tipo>
+    <direccion>Plza. Puertas de San José, s/n</direccion>
+    <localidad>CARTAGENA</localidad>
+    <pedania></pedania>
+    <cp>30202</cp>
+    <telefono>968 501 172</telefono>
+    <fax>968 500 191</fax>
+    <email></email>
+    <web><![CDATA[http://www.renfe.com/viajeros/feve/index.html]]></web>
+    <calidadq>0</calidadq>
+    <calidadt>0</calidadt>
+    <coordx>37.603535</coordx>
+    <coordy>-0.978059</coordy>
+    <fotos>
+      <foto>https://www.murciaturistica.es/webs/murciaturistica/estatico/img/fotohotel.jpg</foto>
+    </fotos>
+    <iconos>
+    </iconos>
+    <opiniones>
+    </opiniones>
+    <descripcion_language>es</descripcion_language>
+    <descripcion><![CDATA[]]></descripcion>
+  </item>
+<description>murciaturistica.es: Estaciones-de-tren</description>
+</channel>
+</rss>

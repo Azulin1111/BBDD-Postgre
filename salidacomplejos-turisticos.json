@@ -1,0 +1,26 @@
+[
+	{
+		"codigo": 1,
+		"idrecurso": 2043,
+		"nombre": "LA MANGA CLUB",
+		"urlportal": "https://www.murciaturistica.es/es/complejo_turistico/la-manga-club-2043/",
+		"tipo": "complejos turísticos",
+		"direccion": "La Manga Club, s/n 30385",
+		"localidad": "CARTAGENA",
+		"pedania": "LOS BELONES",
+		"cp": "None",
+		"telefono": "968 331 234",
+		"fax": "968 331 235",
+		"email": "info@lamangaclub.com",
+		"web": "www.lamangaclub.com",
+		"calidadq": 0,
+		"calidadt": 0,
+		"coordx": 37.605123,
+		"coordy": -0.802305,
+		"fotos": "",
+		"iconos": "",
+		"opiniones": "",
+		"descripcion_language": "es",
+		"descripcion": "None"
+	}
+]

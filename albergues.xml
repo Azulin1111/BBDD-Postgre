@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<rss version="2.0">
+<channel>
+  <generator>NFE/1.0</generator>
+  <title>murciaturistica.es: Albergues</title>
+  <link>https://www.murciaturistica.es/es/turismo.rss_murciaturistica?tipo=albergues&amp;localidad=30016</link>
+  <language>es</language>
+  <webMaster>murciaturistica@carm.es</webMaster>
+  <copyright>Copyright 2021 murciaturistica.es</copyright>
+  <pubDate>Dom, 14 Mar 2021 16:00:00 GMT+00:00</pubDate>
+  <lastBuildDate>Dom, 14 Mar 2021 14:28:05 GMT+00:00</lastBuildDate>
+  <item>
+    <codigo>1</codigo>
+    <idrecurso>2041</idrecurso>
+    <nombre>ARBOLAR</nombre>
+    <urlportal>https://www.murciaturistica.es/es/albergue/arbolar-2041/</urlportal>
+    <tipo>albergues</tipo>
+    <categoria></categoria>
+    <direccion>Punta Brava.Laguna de la Albufera,  124</direccion>
+    <localidad>CARTAGENA</localidad>
+    <pedania>LOS URRUTIAS </pedania>
+    <cp>30368</cp>
+    <telefono>968 134 721 / 678 615 863</telefono>
+    <fax></fax>
+    <email>informacion@arbolar.com</email>
+    <web><![CDATA[www.arbolar.com/seccion06.html]]></web>
+    <calidadq>0</calidadq>
+    <calidadt>0</calidadt>
+    <accesibilidad>NO</accesibilidad>
+    <reservas_online></reservas_online>
+    <reservas_rural></reservas_rural>
+    <coordx></coordx>
+    <coordy></coordy>
+    <habitaciones>13</habitaciones>
+    <plazas>70</plazas>
+    <fotos>
+      <foto>https://www.murciaturistica.es/webs/murciaturistica/fotos/1/albergues/arbolar1_g.jpg</foto>
+    </fotos>
+    <iconos>
+    </iconos>
+    <opiniones>
+    </opiniones>
+    <descripcion_language>es</descripcion_language>
+    <descripcion><![CDATA[]]></descripcion>
+    <servicios><![CDATA[]]></servicios>
+  </item>
+  <item>
+    <codigo>2</codigo>
+    <idrecurso>8692</idrecurso>
+    <nombre>LOOP INN HOSTELS CARTAGENA</nombre>
+    <urlportal>https://www.murciaturistica.es/es/albergue/loop-inn-hostels-cartagena-8692/</urlportal>
+    <tipo>albergues</tipo>
+    <categoria>2 ESTRELLAS</categoria>
+    <direccion>Calle San Crispín</direccion>
+    <localidad>CARTAGENA</localidad>
+    <pedania>CARTAGENA</pedania>
+    <cp>30202</cp>
+    <telefono>683 626 107</telefono>
+    <fax></fax>
+    <email></email>
+    <web><![CDATA[www.loopinnhostels.com]]></web>
+    <calidadq>0</calidadq>
+    <calidadt>0</calidadt>
+    <accesibilidad>NO</accesibilidad>
+    <reservas_online></reservas_online>
+    <reservas_rural></reservas_rural>
+    <coordx></coordx>
+    <coordy></coordy>
+    <habitaciones></habitaciones>
+    <plazas></plazas>
+    <fotos>
+      <foto>https://www.murciaturistica.es/webs/murciaturistica/estatico/img/fotohotel.jpg</foto>
+    </fotos>
+    <iconos>
+    </iconos>
+    <opiniones>
+    </opiniones>
+    <descripcion_language>es</descripcion_language>
+    <descripcion><![CDATA[]]></descripcion>
+    <servicios><![CDATA[]]></servicios>
+  </item>
+  <item>
+    <codigo>3</codigo>
+    <idrecurso>7046</idrecurso>
+    <nombre>LOOP INN HOSTELS CARTAGENA</nombre>
+    <urlportal>https://www.murciaturistica.es/es/albergue/loop-inn-hostels-cartagena-7046/</urlportal>
+    <tipo>albergues</tipo>
+    <categoria></categoria>
+    <direccion>Calle San Crispín</direccion>
+    <localidad>CARTAGENA</localidad>
+    <pedania>CARTAGENA</pedania>
+    <cp>30202</cp>
+    <telefono>868451760</telefono>
+    <fax></fax>
+    <email></email>
+    <web><![CDATA[www.loopinnhostels.com]]></web>
+    <calidadq>0</calidadq>
+    <calidadt>0</calidadt>
+    <accesibilidad>NO</accesibilidad>
+    <reservas_online></reservas_online>
+    <reservas_rural></reservas_rural>
+    <coordx></coordx>
+    <coordy></coordy>
+    <habitaciones></habitaciones>
+    <plazas></plazas>
+    <fotos>
+      <foto>https://www.murciaturistica.es/webs/murciaturistica/fotos/1/albergues/recurso-1-7046-1p_g.jpg</foto>
+      <foto>https://www.murciaturistica.es/webs/murciaturistica/fotos/1/albergues/recurso-1-7046-2p_g.jpg</foto>
+      <foto>https://www.murciaturistica.es/webs/murciaturistica/fotos/1/albergues/recurso-1-7046-3p_g.jpg</foto>
+      <foto>https://www.murciaturistica.es/webs/murciaturistica/fotos/1/albergues/recurso-1-7046-4p_g.jpg</foto>
+      <foto>https://www.murciaturistica.es/webs/murciaturistica/fotos/1/albergues/recurso-1-7046-5p_g.jpg</foto>
+      <foto>https://www.murciaturistica.es/webs/murciaturistica/fotos/1/albergues/recurso-1-7046-6p_g.jpg</foto>
+    </fotos>
+    <iconos>
+    </iconos>
+    <opiniones>
+    </opiniones>
+    <descripcion_language>es</descripcion_language>
+    <descripcion><![CDATA[]]></descripcion>
+    <servicios><![CDATA[]]></servicios>
+  </item>
+<description>murciaturistica.es: Albergues</description>
+</channel>
+</rss>

@@ -1,0 +1,33 @@
+[
+	{
+		"codigo": 1,
+		"idrecurso": 2204,
+		"nombre": "LAS LOMAS",
+		"urlportal": "https://www.murciaturistica.es/es/hotel/las-lomas-2204/",
+		"tipo": "hotel - apartamento",
+		"categoria": "4 ESTRELLAS",
+		"direccion": "La Manga Club",
+		"localidad": "CARTAGENA",
+		"pedania": "LOS BELONES",
+		"cp": 30389,
+		"telefono": "968 338 100",
+		"fax": "None",
+		"email": "info@lamangaclub.com",
+		"web": "http://www.lamangaclub.com/Love-to-Stay/Las-Lomas-Village",
+		"calidadq": 0,
+		"calidadt": 0,
+		"accesibilidad": "SI",
+		"reservas_online": "None",
+		"reservas_rural": "None",
+		"coordx": 37.613503,
+		"coordy": -0.81145,
+		"habitaciones": 58,
+		"plazas": 226,
+		"fotos": "",
+		"iconos": "",
+		"opiniones": "",
+		"descripcion_language": "es",
+		"descripcion": "Diseñado especialmente para las familias, los apartamentos Las Lomas, situados a 1 km del hotel, proponen el encanto residencial de un pueblecito español, distribuidos en estudios y apartamentos de hasta 3 dormitorios, equipados con todas las comodidades de un hotel, además de una cocina totalmente equipada y terraza con barbacoa. También hay servicio de limpieza dos veces por semana.El pueblo tiene sus propios restaurantes, mini-mercado, pista de tenis, piscina y área de juego para los niños.Reservas:  ",
+		"servicios": "Animación infantil, alquiler equipos audiovisuales, instalaciones y zonas comunes accesibles, video / dvd en habitaciones, inglés"
+	}
+]

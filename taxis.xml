@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<rss version="2.0">
+<channel>
+  <generator>NFE/1.0</generator>
+  <title>murciaturistica.es: Taxis</title>
+  <link>https://www.murciaturistica.es/es/turismo.rss_murciaturistica?tipo=taxis&amp;localidad=30016</link>
+  <language>es</language>
+  <webMaster>murciaturistica@carm.es</webMaster>
+  <copyright>Copyright 2021 murciaturistica.es</copyright>
+  <pubDate>Dom, 14 Mar 2021 16:00:00 GMT+00:00</pubDate>
+  <lastBuildDate>Dom, 14 Mar 2021 14:28:14 GMT+00:00</lastBuildDate>
+  <item>
+    <codigo>1</codigo>
+    <idrecurso>807</idrecurso>
+    <nombre>RADIO TAXI CARTAGENA</nombre>
+    <urlportal>https://www.murciaturistica.es/es/taxi/radio-taxi-cartagena-807/</urlportal>
+    <tipo>taxis</tipo>
+    <direccion>  </direccion>
+    <localidad>CARTAGENA</localidad>
+    <pedania></pedania>
+    <cp></cp>
+    <telefono>968 311 515 / 968 520 404</telefono>
+    <fax></fax>
+    <email></email>
+    <web><![CDATA[]]></web>
+    <calidadq>0</calidadq>
+    <calidadt>0</calidadt>
+    <coordx></coordx>
+    <coordy></coordy>
+    <fotos>
+      <foto>https://www.murciaturistica.es/webs/murciaturistica/estatico/img/fotohotel.jpg</foto>
+    </fotos>
+    <iconos>
+    </iconos>
+    <opiniones>
+    </opiniones>
+    <descripcion_language>es</descripcion_language>
+    <descripcion><![CDATA[]]></descripcion>
+  </item>
+  <item>
+    <codigo>2</codigo>
+    <idrecurso>5330</idrecurso>
+    <nombre>TAXI MERCEDES CARTAGENA</nombre>
+    <urlportal>https://www.murciaturistica.es/es/taxi/taxi-mercedes-cartagena-5330/</urlportal>
+    <tipo>taxis</tipo>
+    <direccion></direccion>
+    <localidad>CARTAGENA</localidad>
+    <pedania></pedania>
+    <cp>30319</cp>
+    <telefono>609 663 643</telefono>
+    <fax></fax>
+    <email>taximercedescartagena@gmail.com</email>
+    <web><![CDATA[http://taximercedescartagena.com]]></web>
+    <calidadq>0</calidadq>
+    <calidadt>0</calidadt>
+    <coordx></coordx>
+    <coordy></coordy>
+    <fotos>
+      <foto>https://www.murciaturistica.es/webs/murciaturistica/estatico/img/fotohotel.jpg</foto>
+    </fotos>
+    <iconos>
+    </iconos>
+    <opiniones>
+    </opiniones>
+    <descripcion_language>es</descripcion_language>
+    <descripcion><![CDATA[En Taxi Mercedes Cartagena le ofrecemos un servicio discreto, correcto y eficiente. Profesionales con más de 20 años de experiencia en el sector nos permite ser líderes en el sector. 
+
+Diponemos siempre de vehículos Taxi de la marca Mercedes con navegador, asientos homologados para niños, láminas solares, teléfono para cualquier eventualidad o necesidad y DVD. 
+
+Servicios y facturación a particulares y PYMES. 
+
+Traslados y recogidas en aeropuertos tales como Murcia, Alicante, Valencia, Almería, Madrid, etc. además realizamos traslados a estaciones de tren. 
+
+Rutas turísticas al Mar Menor, Cartagena, bodegas en Jumilla, Yecla y Bullas. 
+
+Desplazamientos entre todas las localidades de la Región de Murcia, etc.]]></descripcion>
+  </item>
+  <item>
+    <codigo>3</codigo>
+    <idrecurso>835</idrecurso>
+    <nombre>TELE TAXI CARTAGENA</nombre>
+    <urlportal>https://www.murciaturistica.es/es/taxi/tele-taxi-cartagena-835/</urlportal>
+    <tipo>taxis</tipo>
+    <direccion>  </direccion>
+    <localidad>CARTAGENA</localidad>
+    <pedania></pedania>
+    <cp></cp>
+    <telefono>968 531 313</telefono>
+    <fax></fax>
+    <email></email>
+    <web><![CDATA[]]></web>
+    <calidadq>0</calidadq>
+    <calidadt>0</calidadt>
+    <coordx></coordx>
+    <coordy></coordy>
+    <fotos>
+      <foto>https://www.murciaturistica.es/webs/murciaturistica/estatico/img/fotohotel.jpg</foto>
+    </fotos>
+    <iconos>
+    </iconos>
+    <opiniones>
+    </opiniones>
+    <descripcion_language>es</descripcion_language>
+    <descripcion><![CDATA[]]></descripcion>
+  </item>
+<description>murciaturistica.es: Taxis</description>
+</channel>
+</rss>

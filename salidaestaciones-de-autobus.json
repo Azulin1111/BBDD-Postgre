@@ -1,0 +1,26 @@
+[
+	{
+		"codigo": 1,
+		"idrecurso": 1324,
+		"nombre": "ESTACIÓN DE AUTOBUSES DE CARTAGENA",
+		"urlportal": "https://www.murciaturistica.es/es/estacion_de_autobus/estacion-de-autobuses-de-cartagena-1324/",
+		"tipo": "estaciones de autobús",
+		"direccion": "Avenida Trovero Marín (junto Plaza Bastarreche)",
+		"localidad": "CARTAGENA",
+		"pedania": "CARTAGENA",
+		"cp": 30202,
+		"telefono": "968 505 656",
+		"fax": "None",
+		"email": "None",
+		"web": "None",
+		"calidadq": 0,
+		"calidadt": 0,
+		"coordx": 37.603889,
+		"coordy": -0.978197,
+		"fotos": "",
+		"iconos": "",
+		"opiniones": "",
+		"descripcion_language": "es",
+		"descripcion": "None"
+	}
+]

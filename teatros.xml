@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<rss version="2.0">
+<channel>
+  <generator>NFE/1.0</generator>
+  <title>murciaturistica.es: Teatros</title>
+  <link>https://www.murciaturistica.es/es/turismo.rss_murciaturistica?tipo=teatros&amp;localidad=30016</link>
+  <language>es</language>
+  <webMaster>murciaturistica@carm.es</webMaster>
+  <copyright>Copyright 2021 murciaturistica.es</copyright>
+  <pubDate>Dom, 14 Mar 2021 16:00:00 GMT+00:00</pubDate>
+  <lastBuildDate>Dom, 14 Mar 2021 14:28:16 GMT+00:00</lastBuildDate>
+  <item>
+    <codigo>1</codigo>
+    <idrecurso>951</idrecurso>
+    <nombre>AUDITORIO PARQUE TORRES-CARTAGENA</nombre>
+    <urlportal>https://www.murciaturistica.es/es/auditorio_teatro/auditorio-parque-torres-cartagena-951/</urlportal>
+    <tipo>teatros</tipo>
+    <direccion></direccion>
+    <localidad>CARTAGENA</localidad>
+    <pedania>CARTAGENA</pedania>
+    <cp></cp>
+    <telefono>968 128 813</telefono>
+    <fax>968 128 905</fax>
+    <email>imusicas@ayto-cartagena.es</email>
+    <web><![CDATA[]]></web>
+    <calidadq>0</calidadq>
+    <calidadt>0</calidadt>
+    <coordx>37.599292</coordx>
+    <coordy>-0.983418</coordy>
+    <fotos>
+      <foto>https://www.murciaturistica.es/webs/murciaturistica/estatico/img/fotohotel.jpg</foto>
+    </fotos>
+    <iconos>
+    </iconos>
+    <opiniones>
+    </opiniones>
+    <descripcion_language>es</descripcion_language>
+    <descripcion><![CDATA[]]></descripcion>
+  </item>
+  <item>
+    <codigo>2</codigo>
+    <idrecurso>950</idrecurso>
+    <nombre>CENTRO CULTURAL "RAMON ALONSO LUZZY" - CARTAGENA</nombre>
+    <urlportal>https://www.murciaturistica.es/es/auditorio_teatro/centro-cultural-"ramon-alonso-luzzy"---cartagena-950/</urlportal>
+    <tipo>teatros</tipo>
+    <direccion></direccion>
+    <localidad>CARTAGENA</localidad>
+    <pedania>CARTAGENA</pedania>
+    <cp></cp>
+    <telefono>968 128 850</telefono>
+    <fax>968 128 853</fax>
+    <email></email>
+    <web><![CDATA[]]></web>
+    <calidadq>0</calidadq>
+    <calidadt>0</calidadt>
+    <coordx>37.608844</coordx>
+    <coordy>-0.977587</coordy>
+    <fotos>
+      <foto>https://www.murciaturistica.es/webs/murciaturistica/estatico/img/fotohotel.jpg</foto>
+    </fotos>
+    <iconos>
+    </iconos>
+    <opiniones>
+    </opiniones>
+    <descripcion_language>es</descripcion_language>
+    <descripcion><![CDATA[]]></descripcion>
+  </item>
+<description>murciaturistica.es: Teatros</description>
+</channel>
+</rss>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<rss version="2.0">
+<channel>
+  <generator>NFE/1.0</generator>
+  <title>murciaturistica.es: Festivales</title>
+  <link>https://www.murciaturistica.es/es/turismo.rss_murciaturistica?tipo=festivales&amp;localidad=30016</link>
+  <language>es</language>
+  <webMaster>murciaturistica@carm.es</webMaster>
+  <copyright>Copyright 2021 murciaturistica.es</copyright>
+  <pubDate>Dom, 14 Mar 2021 16:00:00 GMT+00:00</pubDate>
+  <lastBuildDate>Dom, 14 Mar 2021 14:28:10 GMT+00:00</lastBuildDate>
+  <item>
+    <codigo>1</codigo>
+    <idrecurso>506</idrecurso>
+    <nombre>CARTAGENA JAZZ FESTIVAL</nombre>
+    <urlportal>https://www.murciaturistica.es/es/festival/cartagena-jazz-festival-506/</urlportal>
+    <tipo>festivales</tipo>
+    <direccion></direccion>
+    <localidad>CARTAGENA</localidad>
+    <pedania></pedania>
+    <cp></cp>
+    <telefono></telefono>
+    <fax></fax>
+    <email></email>
+    <web><![CDATA[https://jazz.cartagena.es/2018/]]></web>
+    <calidadq>0</calidadq>
+    <calidadt>0</calidadt>
+    <coordx></coordx>
+    <coordy></coordy>
+    <fotos>
+      <foto>https://www.murciaturistica.es/webs/murciaturistica/fotos/1/fiestas/FIESTAS_1_506_249_g.jpg</foto>
+    </fotos>
+    <iconos>
+    </iconos>
+    <opiniones>
+    </opiniones>
+    <descripcion_language>es</descripcion_language>
+    <descripcion><![CDATA[El Cartagena Jazz Festival es uno de los festivales m&aacute;s veteranos del pa&iacute;s. Se celebra de octubre a diciembre, y tiene como sedes escenarios de aut&eacute;ntico lujo como el auditorio El Batel y el Nuevo Teatro Circo.
+
+El festival adem&aacute;s de jazz incluye otros estilos como pop, rock y folk y trae cada a&ntilde;o un cartel lleno de figuras y artistas de primer nivel.
+
+<a class="enlaces" href="http://www.jazzcartagena.com/" target="_blank">M&aacute;s informaci&oacute;n </a>
+]]></descripcion>
+  </item>
+  <item>
+    <codigo>2</codigo>
+    <idrecurso>508</idrecurso>
+    <nombre>LA MAR DE MÚSICAS</nombre>
+    <urlportal>https://www.murciaturistica.es/es/festival/la-mar-de-musicas-508/</urlportal>
+    <tipo>festivales</tipo>
+    <direccion>Centro Cultural Ramón Alonso Luzzy - Calle Jacinto Benavente, 7 -</direccion>
+    <localidad>CARTAGENA</localidad>
+    <pedania></pedania>
+    <cp>30203</cp>
+    <telefono>968 12 88 13</telefono>
+    <fax></fax>
+    <email></email>
+    <web><![CDATA[http://www.lamardemusicas.com]]></web>
+    <calidadq>0</calidadq>
+    <calidadt>0</calidadt>
+    <coordx></coordx>
+    <coordy></coordy>
+    <fotos>
+      <foto>https://www.murciaturistica.es/webs/murciaturistica/fotos/1/fiestas/fiestas_1_508_228_g.jpg</foto>
+      <foto>https://www.murciaturistica.es/webs/murciaturistica/fotos/1/fiestas/img12011238_g.jpg</foto>
+      <foto>https://www.murciaturistica.es/webs/murciaturistica/fotos/1/fiestas/FIESTAS_1_508_239_g.jpg</foto>
+      <foto>https://www.murciaturistica.es/webs/murciaturistica/fotos/1/fiestas/recurso-1-508-240_g.jpg</foto>
+      <foto>https://www.murciaturistica.es/webs/murciaturistica/fotos/1/fiestas/recurso-1-508-241_g.jpg</foto>
+    </fotos>
+    <iconos>
+    </iconos>
+    <opiniones>
+    </opiniones>
+    <descripcion_language>es</descripcion_language>
+    <descripcion><![CDATA[<br />
+Este festival se celebra cada mes de julio en la localidad de Cartagena y tiene como objetivo abrir la ciudad portuaria a un sinf&iacute;n de m&uacute;sicas, artes pl&aacute;sticas, fotograf&iacute;a, cine y literatura. De esta forma, durante m&aacute;s de dos semanas la ciudad muestra la idiosincrasia de otras culturas, eligiendo un pa&iacute;s invitado cada a&ntilde;o.&nbsp;
+
+El escenario principal es el Auditorio Parque Torres, una atalaya privilegiada a orillas del Mediterr&aacute;neo desde la cual es posible divisar el puerto de la localidad y los impresionantes restos arqueol&oacute;gicos del teatro romano.
+
+El castillo &aacute;rabe, el Patio de Armas del Parque de Artiller&iacute;a, la plaza del Ayuntamiento y las ruinas de la Catedral Antigua se repartir&aacute;n el resto de escenarios de este fesival; emplazamientos estrat&eacute;gicos para disfrutar del ocio al tiempo que te empapas de historia.
+
+<a class="enlaces" href="http://www.lamardemusicas.com/" target="blank">M&aacute;s informaci&oacute;n </a>
+]]></descripcion>
+  </item>
+<description>murciaturistica.es: Festivales</description>
+</channel>
+</rss>

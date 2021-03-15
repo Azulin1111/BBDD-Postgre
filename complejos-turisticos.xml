@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<rss version="2.0">
+<channel>
+  <generator>NFE/1.0</generator>
+  <title>murciaturistica.es: Complejos-turisticos</title>
+  <link>https://www.murciaturistica.es/es/turismo.rss_murciaturistica?tipo=complejos-turisticos&amp;localidad=30016</link>
+  <language>es</language>
+  <webMaster>murciaturistica@carm.es</webMaster>
+  <copyright>Copyright 2021 murciaturistica.es</copyright>
+  <pubDate>Dom, 14 Mar 2021 16:00:00 GMT+00:00</pubDate>
+  <lastBuildDate>Dom, 14 Mar 2021 14:28:24 GMT+00:00</lastBuildDate>
+  <item>
+    <codigo>1</codigo>
+    <idrecurso>2043</idrecurso>
+    <nombre>LA MANGA CLUB</nombre>
+    <urlportal>https://www.murciaturistica.es/es/complejo_turistico/la-manga-club-2043/</urlportal>
+    <tipo>complejos turísticos</tipo>
+    <direccion>La Manga Club, s/n 30385</direccion>
+    <localidad>CARTAGENA</localidad>
+    <pedania>LOS BELONES </pedania>
+    <cp></cp>
+    <telefono>968 331 234</telefono>
+    <fax>968 331 235</fax>
+    <email>info@lamangaclub.com</email>
+    <web><![CDATA[www.lamangaclub.com]]></web>
+    <calidadq>0</calidadq>
+    <calidadt>0</calidadt>
+    <coordx>37.605123</coordx>
+    <coordy>-0.802305</coordy>
+    <fotos>
+      <foto>https://www.murciaturistica.es/webs/murciaturistica/estatico/img/fotohotel.jpg</foto>
+    </fotos>
+    <iconos>
+    </iconos>
+    <opiniones>
+    </opiniones>
+    <descripcion_language>es</descripcion_language>
+    <descripcion><![CDATA[]]></descripcion>
+  </item>
+<description>murciaturistica.es: Complejos-turisticos</description>
+</channel>
+</rss>
